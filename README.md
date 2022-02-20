@@ -4,8 +4,8 @@
  
  very comfortable and easy to write clean code
  
- Quizapp mit JSON Data
+ Quizapp JSON Data
 
-enjoy it
 
-https://jankee92pl.github.io/QuizApp/
+
+[enjoy it here](https://jankee92pl.github.io/QuizApp/)
